@@ -6,5 +6,7 @@
   "repository": "https://github.com/BoostIO/Boostbot",
   "author": "asmsuechan",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "github-webhook-handler": "^0.6.0"
+  }
 }
